@@ -1,0 +1,6 @@
+framework module Pods_API_Yelp {
+  umbrella header "Pods-API Yelp-umbrella.h"
+
+  export *
+  module * { export * }
+}
